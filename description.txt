@@ -1,0 +1,3 @@
+Title: Quick Tools
+Author: Auios
+Quickly equip special tools using keybinds
